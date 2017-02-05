@@ -1,0 +1,175 @@
+<scoverage 
+statement-count="47" statements-invoked="47" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1486317129249">
+    <packages>
+        <package name="edu.knoldus" statement-count="47" statements-invoked="47" statement-rate="100.00">
+            <classes>
+                <class 
+                name="edu.knoldus.TwitterFeedFetch" filename="edu\knoldus\TwitterFeedFetch.scala" statement-count="47" statements-invoked="47" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/TwitterFeedFetch/averageLikes" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2018" end="2037" line="64" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2208" end="2242" line="68" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2043" end="2086" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2156" end="2185" line="67" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2217" end="2217" line="68" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="1938" end="2000" line="63" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2058" end="2085" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="1901" end="2273" line="62" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2156" end="2170" line="67" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2103" end="2124" line="66" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2223" end="2241" line="68" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2058" end="2079" line="65" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageLikes" start="2248" end="2268" line="69" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TwitterFeedFetch/fetchTweets" statement-count="9" statements-invoked="9" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1518" end="1561" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1719" end="1748" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1493" end="1512" line="50" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1413" end="1475" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1533" end="1560" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1719" end="1733" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1665" end="1686" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1376" end="1765" line="48" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="fetchTweets" start="1533" end="1554" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TwitterFeedFetch/&lt;none&gt;" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="809" end="820" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="941" end="958" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="433" end="460" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="622" end="655" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="559" end="586" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="777" end="781" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="896" end="907" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="383" end="403" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="851" end="868" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="496" end="529" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="740" end="959" line="28" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="&lt;none&gt;" start="710" end="736" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus/TwitterFeedFetch/averageRetweets" statement-count="13" statements-invoked="13" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2673" end="2687" line="81" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2455" end="2517" line="77" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2736" end="2736" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2575" end="2602" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2418" end="2793" line="76" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2766" end="2788" line="83" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2620" end="2641" line="80" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2742" end="2759" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2575" end="2596" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2727" end="2760" line="82" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2535" end="2554" line="78" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2560" end="2603" line="79" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="TwitterFeedFetch" class-type="Class" full-class-name="edu.knoldus.TwitterFeedFetch" source="C:\Users\ANMOL\IdeaProjects\Twitter-Fetch-Data\src\main\scala\edu\knoldus\TwitterFeedFetch.scala" method="averageRetweets" start="2673" end="2702" line="81" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
