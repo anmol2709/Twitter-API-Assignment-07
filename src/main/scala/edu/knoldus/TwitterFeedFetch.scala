@@ -14,11 +14,11 @@ class TwitterFeedFetch {
     * Creating a file named Application.config in resources
     */
 
-  val cn = ConfigFactory.load()
-  val consumerKey: String = cn.getString("consumerKey")
-  val consumerSecretKey: String = cn.getString("consumerSecretKey")
-  val accessToken: String = cn.getString("accessToken")
-  val accessTokenSecret: String = cn.getString("accessTokenSecret")
+  val configuration = ConfigFactory.load()
+  val consumerKey: String = configuration.getString("consumerKey")
+  val consumerSecretKey: String = configuration.getString("consumerSecretKey")
+  val accessToken: String = configuration.getString("accessToken")
+  val accessTokenSecret: String = configuration.getString("accessTokenSecret")
 
   val configurationBuilder: ConfigurationBuilder = new ConfigurationBuilder()
   configurationBuilder.setDebugEnabled(true)
@@ -48,7 +48,7 @@ class TwitterFeedFetch {
   def fetchTweets: Future[List[Status]] = Future {
     val twitter: Twitter = new TwitterFactory(configurationBuilder.build()).getInstance()
     val query = new Query("#scala")
-    query.setCount(cn.getString("count").toInt)
+    query.setCount(configuration.getString("count").toInt)
     // taking count from config file because of warning of magic Number in scalastyle
     val list = twitter.search(query)
     val tweets: List[Status] = list.getTweets.asScala.toList
@@ -62,7 +62,7 @@ class TwitterFeedFetch {
   def averageLikes: Future[Int] = Future {
     val twitter: Twitter = new TwitterFactory(configurationBuilder.build()).getInstance()
     val query = new Query("#scala")
-    query.setCount(cn.getString("count").toInt)
+    query.setCount(configuration.getString("count").toInt)
     val list = twitter.search(query)
     val feeds: List[Status] = list.getTweets.asScala.toList
     val likesCount = feeds.map(y => y.getFavoriteCount)
@@ -76,7 +76,7 @@ class TwitterFeedFetch {
   def averageRetweets: Future[Int] = Future {
     val twitter: Twitter = new TwitterFactory(configurationBuilder.build()).getInstance()
     val query = new Query("#scala")
-    query.setCount(cn.getString("count").toInt)
+    query.setCount(configuration.getString("count").toInt)
     val list = twitter.search(query)
     val feeds: List[Status] = list.getTweets.asScala.toList
     val retweetCount = feeds.map(y => y.getRetweetCount)
